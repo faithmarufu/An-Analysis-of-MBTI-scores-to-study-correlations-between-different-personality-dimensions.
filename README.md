@@ -1,0 +1,2 @@
+# An-Analysis-of-MBTI-scores-to-study-correlations-between-different-personality-dimensions.
+Analysis of a synthetic Kaggle MBTI dataset (128K+ participants) shows Diplomats as the most common personality type and Sentinels the least. Higher education correlates with higher Judging scores, especially for those 30+, while gender differences are minimal. Insights highlight links between personality traits and demographics for workplace.
